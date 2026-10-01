@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Sync History to Solutions Folder
-        uses: joshcai/leetcode-sync@v1.7
+        uses: joshcai/leetcode-sync@master
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
           leetcode-session: ${{ secrets.LEETCODE_SESSION }}
           destination-folder: 'solutions'
-          naming-rule: 'default' # Matches the extension format (e.g., 1-two-sum)
+          naming-rule: 'leetcode'
