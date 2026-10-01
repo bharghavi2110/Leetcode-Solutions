@@ -3,7 +3,7 @@ class Solution {
         Arrays.sort(arr);
         int n=arr.length/20;
         int sum=0;
-        for(int i=0+n;i<arr.length-n;i++)
+        for(int i=n;i<arr.length-n;i++)
         {
             sum+=arr[i];
         }
