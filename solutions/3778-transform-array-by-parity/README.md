@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/transform-array-by-parity">Transform Array by Parity</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer array <code>nums</code>. Transform <code>nums</code> by performing the following operations in the <strong>exact</strong> order specified:</p>
+<p>You are given an integer array <code>nums</code>. Transform <code>nums</code> by performing the following operations in the <strong>exact</strong> order specified:</p>
 
 <ol>
 	<li>Replace each even number with 0.</li>
