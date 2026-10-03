@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range">Sum of Integers with Maximum Digit Range</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer array <code>nums</code>.</p>
+<p>You are given an integer array <code>nums</code>.</p>
 
 <p>The <strong>digit range</strong> of an integer is defined as the difference between its <strong>largest</strong> digit and <strong>smallest</strong> digit.</p>
 
