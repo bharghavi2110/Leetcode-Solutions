@@ -5,11 +5,6 @@ class Solution {
         {
             sum+=n;
         }
-        int operations=sum%k;
-        if(operations==0)
-        {
-            return 0;
-        }
-        return operations;
+        return sum%k;
     }
 }
