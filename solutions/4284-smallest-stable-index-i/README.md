@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/smallest-stable-index-i">Smallest Stable Index I</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer array <code>nums</code> of length <code>n</code> and an integer <code>k</code>.</p>
+<p>You are given an integer array <code>nums</code> of length <code>n</code> and an integer <code>k</code>.</p>
 
 <p>For each index <code>i</code>, define its <strong>instability score</strong> as <code>max(nums[0..i]) - min(nums[i..n - 1])</code>.</p>
 
