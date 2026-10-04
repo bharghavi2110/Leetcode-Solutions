@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-dominant-indices">Count Dominant Indices</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer array <code>nums</code> of length <code>n</code>.</p>
+<p>You are given an integer array <code>nums</code> of length <code>n</code>.</p>
 
 <p>An element at index <code>i</code> is called <strong>dominant</strong> if: <code>nums[i] &gt; average(nums[i + 1], nums[i + 2], ..., nums[n - 1])</code></p>
 
