@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-absolute-difference-between-two-values">Minimum Absolute Difference Between Two Values</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer array <code>nums</code> consisting only of 0, 1, and 2.</p>
+<p>You are given an integer array <code>nums</code> consisting only of 0, 1, and 2.</p>
 
 <p>A pair of indices <code>(i, j)</code> is called <strong>valid</strong> if <code>nums[i] == 1</code> and <code>nums[j] == 2</code>.</p>
 
