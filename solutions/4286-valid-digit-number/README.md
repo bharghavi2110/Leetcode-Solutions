@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/valid-digit-number">Valid Digit Number</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer <code>n</code> and a digit <code>x</code>.</p>
+<p>You are given an integer <code>n</code> and a digit <code>x</code>.</p>
 
 <p>A number is considered <strong>valid</strong> if:</p>
 
