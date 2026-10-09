@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/divisor-game">Divisor Game</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Alice and Bob take turns playing a game, with Alice starting first.</p>
+<p>Alice and Bob take turns playing a game, with Alice starting first.</p>
 
 <p>Initially, there is a number <code>n</code> on the chalkboard. On each player&#39;s turn, that player makes a move consisting of:</p>
 
