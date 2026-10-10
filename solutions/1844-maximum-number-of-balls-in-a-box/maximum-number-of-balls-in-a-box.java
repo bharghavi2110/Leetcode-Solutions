@@ -1,6 +1,6 @@
 class Solution {
     public int countBalls(int lowLimit, int highLimit) {
-        int[] box=new int[lowLimit+highLimit];
+        int[] box=new int[46];
         for(int i=lowLimit;i<=highLimit;i++)
         {
             int num=i;
