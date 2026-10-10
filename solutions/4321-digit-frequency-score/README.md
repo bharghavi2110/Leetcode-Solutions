@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/digit-frequency-score">Digit Frequency Score</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer <code>n</code>.</p>
+<p>You are given an integer <code>n</code>.</p>
 
 <p>The <strong>score</strong> of <code>n</code> is defined as the <strong>sum</strong> of <code>d * freq(d)</code> over all <strong>distinct</strong> digits <code>d</code>, where <code>freq(d)</code> denotes the number of times the digit <code>d</code> appears in <code>n</code>.</p>
 
