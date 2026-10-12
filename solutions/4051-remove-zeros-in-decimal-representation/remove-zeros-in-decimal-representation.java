@@ -1,15 +1,17 @@
 class Solution {
     public long removeZeros(long n) {
-        String s=String.valueOf(n);
-        char[] arr=s.toCharArray();
-        String result="";
-        for(int i=0;i<arr.length;i++)
+        long result=0;
+        long multiplier=1;
+        while(n>0)
         {
-            if(arr[i]!='0')
+            long digit=n%10;
+            if(digit!=0)
             {
-                result+=arr[i];
+                result+=digit*multiplier;
+                multiplier*=10;
             }
+            n/=10;
         }
-        return Long.parseLong(result);
+        return result;
     }
 }
