@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-number-of-flips-to-reverse-binary-string">Minimum Number of Flips to Reverse Binary String</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a <strong>positive</strong> integer <code>n</code>.</p>
+<p>You are given a <strong>positive</strong> integer <code>n</code>.</p>
 
 <p>Let <code>s</code> be the <strong>binary representation</strong> of <code>n</code> without leading zeros.</p>
 
