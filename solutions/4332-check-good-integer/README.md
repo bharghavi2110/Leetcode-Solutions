@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/check-good-integer">Check Good Integer</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a positive integer <code>n</code>.</p>
+<p>You are given a positive integer <code>n</code>.</p>
 
 <p>Let <code>digitSum</code> be the sum of the digits of <code>n</code>, and let <code>squareSum</code> be the sum of the squares of the digits of <code>n</code>.</p>
 
