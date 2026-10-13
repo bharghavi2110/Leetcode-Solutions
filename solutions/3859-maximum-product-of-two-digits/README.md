@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-product-of-two-digits">Maximum Product of Two Digits</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a positive integer <code>n</code>.</p>
+<p>You are given a positive integer <code>n</code>.</p>
 
 <p>Return the <strong>maximum</strong> product of any two digits in <code>n</code>.</p>
 
