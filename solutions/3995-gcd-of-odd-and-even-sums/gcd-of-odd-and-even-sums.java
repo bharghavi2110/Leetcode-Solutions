@@ -1,15 +1,7 @@
 class Solution {
     public int gcdOfOddEvenSums(int n) {
-        int sumOdd=0;
-        int sumEven=0;
-        for(int i=1;i<=2*n;i+=2)
-        {
-            sumOdd+=i;
-        }
-        for(int i=2;i<=2*n;i+=2)
-        {
-            sumEven+=i;
-        }
+        int sumOdd=n*n;
+        int sumEven=n*(n+1);
         int rem=0;
         while(sumEven!=0)
         {
