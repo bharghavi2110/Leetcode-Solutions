@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array">Difference Between Element Sum and Digit Sum of an Array</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a positive integer array <code>nums</code>.</p>
+<p>You are given a positive integer array <code>nums</code>.</p>
 
 <ul>
 	<li>The <strong>element sum</strong> is the sum of all the elements in <code>nums</code>.</li>
