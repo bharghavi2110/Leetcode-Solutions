@@ -4,7 +4,7 @@ class Solution {
         {
             return k;
         }
-        else if(k>numOnes && k<(numOnes+numZeros))
+        else if(k<=(numOnes+numZeros))
         {
             return numOnes;
         }
