@@ -15,18 +15,12 @@ class Solution {
                 count++;
                 num/=10;
             }
-            if(count==2)
+            int encrypt=0;
+            for(int j=0;j<count;j++)
             {
-                nums[i]=11*max;
+                encrypt=encrypt*10+max;
             }
-            else if(count==3)
-            {
-                nums[i]=111*max;
-            }
-            else if(count==4)
-            {
-                nums[i]=1111*max;
-            }
+            nums[i]=encrypt;
         }
         int sum=0;
         for(int n:nums)
