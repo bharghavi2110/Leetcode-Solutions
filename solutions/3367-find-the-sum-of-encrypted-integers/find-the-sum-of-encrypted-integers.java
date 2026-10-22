@@ -1,5 +1,6 @@
 class Solution {
     public int sumOfEncryptedInt(int[] nums) {
+        int sum=0;
         for(int i=0;i<nums.length;i++)
         {
             int num=nums[i];
@@ -20,12 +21,7 @@ class Solution {
             {
                 encrypt=encrypt*10+max;
             }
-            nums[i]=encrypt;
-        }
-        int sum=0;
-        for(int n:nums)
-        {
-            sum+=n;
+            sum+=encrypt;
         }
         return sum;
     }
