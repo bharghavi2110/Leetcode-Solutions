@@ -6,10 +6,13 @@ class Solution {
         {
             return 1;
         }
-        else if(first==second)
+        else if(first>second)
+        {
+            return 2;
+        }
+        else
         {
             return 0;
         }
-        return 2;
     }
 }
